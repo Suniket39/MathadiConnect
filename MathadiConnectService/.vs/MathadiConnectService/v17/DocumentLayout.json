@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|c:\\users\\suniket\\desktop\\suniketproject\\dotnetprojects\\mathadi connect\\mathadiconnectservice\\mathadiconnect.infrastructure\\entities\\usermanagement\\userscreenmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|solutionrelative:mathadiconnect.infrastructure\\entities\\usermanagement\\userscreenmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|c:\\users\\suniket\\desktop\\suniketproject\\dotnetprojects\\mathadi connect\\mathadiconnectservice\\mathadiconnect.infrastructure\\entities\\usermanagement\\rolemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|solutionrelative:mathadiconnect.infrastructure\\entities\\usermanagement\\rolemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|c:\\users\\suniket\\desktop\\suniketproject\\dotnetprojects\\mathadi connect\\mathadiconnectservice\\mathadiconnect.infrastructure\\entityconfigurations\\usermanagement\\rolemasterconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|solutionrelative:mathadiconnect.infrastructure\\entityconfigurations\\usermanagement\\rolemasterconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|c:\\users\\suniket\\desktop\\suniketproject\\dotnetprojects\\mathadi connect\\mathadiconnectservice\\mathadiconnect.infrastructure\\dbcontext\\mconnectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|solutionrelative:mathadiconnect.infrastructure\\dbcontext\\mconnectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD76E328-A3E4-4A0D-AF48-983FBA57CE47}|MathadiConnect.Api\\MathadiConnect.Api.csproj|c:\\users\\suniket\\desktop\\suniketproject\\dotnetprojects\\mathadi connect\\mathadiconnectservice\\mathadiconnect.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD76E328-A3E4-4A0D-AF48-983FBA57CE47}|MathadiConnect.Api\\MathadiConnect.Api.csproj|solutionrelative:mathadiconnect.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD76E328-A3E4-4A0D-AF48-983FBA57CE47}|MathadiConnect.Api\\MathadiConnect.Api.csproj|c:\\users\\suniket\\desktop\\suniketproject\\dotnetprojects\\mathadi connect\\mathadiconnectservice\\mathadiconnect.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD76E328-A3E4-4A0D-AF48-983FBA57CE47}|MathadiConnect.Api\\MathadiConnect.Api.csproj|solutionrelative:mathadiconnect.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|c:\\users\\suniket\\desktop\\suniketproject\\dotnetprojects\\mathadi connect\\mathadiconnectservice\\mathadiconnect.infrastructure\\entityconfigurations\\usermanagement\\usermanagerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|solutionrelative:mathadiconnect.infrastructure\\entityconfigurations\\usermanagement\\usermanagerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|c:\\users\\suniket\\desktop\\suniketproject\\dotnetprojects\\mathadi connect\\mathadiconnectservice\\mathadiconnect.infrastructure\\entityconfigurations\\usermanagement\\refreshtokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|solutionrelative:mathadiconnect.infrastructure\\entityconfigurations\\usermanagement\\refreshtokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|c:\\users\\suniket\\desktop\\suniketproject\\dotnetprojects\\mathadi connect\\mathadiconnectservice\\mathadiconnect.infrastructure\\entities\\usermanagement\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|solutionrelative:mathadiconnect.infrastructure\\entities\\usermanagement\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD76E328-A3E4-4A0D-AF48-983FBA57CE47}|MathadiConnect.Api\\MathadiConnect.Api.csproj|c:\\users\\suniket\\desktop\\suniketproject\\dotnetprojects\\mathadi connect\\mathadiconnectservice\\mathadiconnect.api\\controllers\\usermanagement\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD76E328-A3E4-4A0D-AF48-983FBA57CE47}|MathadiConnect.Api\\MathadiConnect.Api.csproj|solutionrelative:mathadiconnect.api\\controllers\\usermanagement\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|c:\\users\\suniket\\desktop\\suniketproject\\dotnetprojects\\mathadi connect\\mathadiconnectservice\\mathadiconnect.infrastructure\\entities\\usermanagement\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB7BCF8-A258-49E8-9DA7-D27E0EF71E7C}|MathadiConnect.Infrastructure\\MathadiConnect.Infrastructure.csproj|solutionrelative:mathadiconnect.infrastructure\\entities\\usermanagement\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD76E328-A3E4-4A0D-AF48-983FBA57CE47}|MathadiConnect.Api\\MathadiConnect.Api.csproj|c:\\users\\suniket\\desktop\\suniketproject\\dotnetprojects\\mathadi connect\\mathadiconnectservice\\mathadiconnect.api\\controllers\\workers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD76E328-A3E4-4A0D-AF48-983FBA57CE47}|MathadiConnect.Api\\MathadiConnect.Api.csproj|solutionrelative:mathadiconnect.api\\controllers\\workers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserScreenMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\Entities\\UserManagement\\UserScreenMaster.cs",
+              "RelativeDocumentMoniker": "MathadiConnect.Infrastructure\\Entities\\UserManagement\\UserScreenMaster.cs",
+              "ToolTip": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\Entities\\UserManagement\\UserScreenMaster.cs",
+              "RelativeToolTip": "MathadiConnect.Infrastructure\\Entities\\UserManagement\\UserScreenMaster.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:18:58.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MathadiConnect.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Api\\appsettings.json",
+              "RelativeToolTip": "MathadiConnect.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T20:26:13.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MConnectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\DBContext\\MConnectDbContext.cs",
+              "RelativeDocumentMoniker": "MathadiConnect.Infrastructure\\DBContext\\MConnectDbContext.cs",
+              "ToolTip": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\DBContext\\MConnectDbContext.cs",
+              "RelativeToolTip": "MathadiConnect.Infrastructure\\DBContext\\MConnectDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:52:58.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MathadiConnect.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Api\\Program.cs",
+              "RelativeToolTip": "MathadiConnect.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:56:12.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleMasterConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\EntityConfigurations\\UserManagement\\RoleMasterConfiguration.cs",
+              "RelativeDocumentMoniker": "MathadiConnect.Infrastructure\\EntityConfigurations\\UserManagement\\RoleMasterConfiguration.cs",
+              "ToolTip": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\EntityConfigurations\\UserManagement\\RoleMasterConfiguration.cs",
+              "RelativeToolTip": "MathadiConnect.Infrastructure\\EntityConfigurations\\UserManagement\\RoleMasterConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:41:00.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\Entities\\UserManagement\\RoleMaster.cs",
+              "RelativeDocumentMoniker": "MathadiConnect.Infrastructure\\Entities\\UserManagement\\RoleMaster.cs",
+              "ToolTip": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\Entities\\UserManagement\\RoleMaster.cs",
+              "RelativeToolTip": "MathadiConnect.Infrastructure\\Entities\\UserManagement\\RoleMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:26:27.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RefreshTokenConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\EntityConfigurations\\UserManagement\\RefreshTokenConfiguration.cs",
+              "RelativeDocumentMoniker": "MathadiConnect.Infrastructure\\EntityConfigurations\\UserManagement\\RefreshTokenConfiguration.cs",
+              "ToolTip": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\EntityConfigurations\\UserManagement\\RefreshTokenConfiguration.cs",
+              "RelativeToolTip": "MathadiConnect.Infrastructure\\EntityConfigurations\\UserManagement\\RefreshTokenConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:25:37.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserManagerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\EntityConfigurations\\UserManagement\\UserManagerConfiguration.cs",
+              "RelativeDocumentMoniker": "MathadiConnect.Infrastructure\\EntityConfigurations\\UserManagement\\UserManagerConfiguration.cs",
+              "ToolTip": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\EntityConfigurations\\UserManagement\\UserManagerConfiguration.cs",
+              "RelativeToolTip": "MathadiConnect.Infrastructure\\EntityConfigurations\\UserManagement\\UserManagerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:24:49.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\Entities\\UserManagement\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "MathadiConnect.Infrastructure\\Entities\\UserManagement\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\Entities\\UserManagement\\RefreshToken.cs",
+              "RelativeToolTip": "MathadiConnect.Infrastructure\\Entities\\UserManagement\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:23:08.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\Entities\\UserManagement\\UserManager.cs",
+              "RelativeDocumentMoniker": "MathadiConnect.Infrastructure\\Entities\\UserManagement\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Infrastructure\\Entities\\UserManagement\\UserManager.cs",
+              "RelativeToolTip": "MathadiConnect.Infrastructure\\Entities\\UserManagement\\UserManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:47:25.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Api\\Controllers\\UserManagement\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "MathadiConnect.Api\\Controllers\\UserManagement\\UserManagementController.cs",
+              "ToolTip": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Api\\Controllers\\UserManagement\\UserManagementController.cs",
+              "RelativeToolTip": "MathadiConnect.Api\\Controllers\\UserManagement\\UserManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:17:43.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkersController.cs",
+              "DocumentMoniker": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Api\\Controllers\\Workers\\WorkersController.cs",
+              "RelativeDocumentMoniker": "MathadiConnect.Api\\Controllers\\Workers\\WorkersController.cs",
+              "ToolTip": "C:\\Users\\Suniket\\Desktop\\SuniketProject\\DotNetProjects\\Mathadi Connect\\MathadiConnectService\\MathadiConnect.Api\\Controllers\\Workers\\WorkersController.cs",
+              "RelativeToolTip": "MathadiConnect.Api\\Controllers\\Workers\\WorkersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:15:46.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

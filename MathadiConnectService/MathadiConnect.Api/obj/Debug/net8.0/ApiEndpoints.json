@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "MathadiConnect.Api.Controllers.UserManagement.UserManagementController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/UserManagement",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

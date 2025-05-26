@@ -1,0 +1,6 @@
+@MathadiConnect.Api_HostAddress = http://localhost:5093
+
+GET {{MathadiConnect.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

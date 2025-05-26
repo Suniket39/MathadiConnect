@@ -1,0 +1,11 @@
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Application\bin\Debug\net8.0\MathadiConnect.Application.deps.json
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Application\bin\Debug\net8.0\MathadiConnect.Application.dll
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Application\bin\Debug\net8.0\MathadiConnect.Application.pdb
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Application\obj\Debug\net8.0\MathadiConnect.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Application\obj\Debug\net8.0\MathadiConnect.Application.AssemblyInfoInputs.cache
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Application\obj\Debug\net8.0\MathadiConnect.Application.AssemblyInfo.cs
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Application\obj\Debug\net8.0\MathadiConnect.Application.csproj.CoreCompileInputs.cache
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Application\obj\Debug\net8.0\MathadiConnect.Application.dll
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Application\obj\Debug\net8.0\refint\MathadiConnect.Application.dll
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Application\obj\Debug\net8.0\MathadiConnect.Application.pdb
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Application\obj\Debug\net8.0\ref\MathadiConnect.Application.dll

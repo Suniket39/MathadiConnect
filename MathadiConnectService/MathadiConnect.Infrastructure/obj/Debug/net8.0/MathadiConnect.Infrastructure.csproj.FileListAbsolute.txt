@@ -1,0 +1,12 @@
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Infrastructure\obj\Debug\net8.0\MathadiConnect.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Infrastructure\obj\Debug\net8.0\MathadiConnect.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Infrastructure\obj\Debug\net8.0\MathadiConnect.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Infrastructure\obj\Debug\net8.0\MathadiConnect.Infrastructure.AssemblyInfo.cs
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Infrastructure\obj\Debug\net8.0\MathadiConnect.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Infrastructure\bin\Debug\net8.0\MathadiConnect.Infrastructure.deps.json
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Infrastructure\bin\Debug\net8.0\MathadiConnect.Infrastructure.dll
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Infrastructure\bin\Debug\net8.0\MathadiConnect.Infrastructure.pdb
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Infrastructure\obj\Debug\net8.0\MathadiConnect.Infrastructure.dll
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Infrastructure\obj\Debug\net8.0\refint\MathadiConnect.Infrastructure.dll
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Infrastructure\obj\Debug\net8.0\MathadiConnect.Infrastructure.pdb
+C:\Users\Suniket\Desktop\SuniketProject\DotNetProjects\Mathadi Connect\MathadiConnectService\MathadiConnect.Infrastructure\obj\Debug\net8.0\ref\MathadiConnect.Infrastructure.dll
